@@ -1,0 +1,5 @@
+How to Run ?
+python project_main.py data1.csv
+
+Output - 
+generates a file predictions.csv in the same folder
